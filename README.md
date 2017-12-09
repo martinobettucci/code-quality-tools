@@ -6,7 +6,20 @@ If there is anything missing, please submit a pull request.
 
 ## Bash / Shell
 
+#### Static Analysis
+
 - [shellcheck](https://github.com/koalaman/shellcheck) - Warnings and suggestions for bash/sh shell scripts.
+
+#### Testing
+
+- [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+- [bash_test_tools](https://thorsteinssonh.github.io/bash_test_tools/) - For testing executables in a shell environment.
+- [bash_unit](https://github.com/pgrange/bash_unit) - Bash unit testing enterprise edition framework.
+- [bashtest](https://github.com/pahaz/bashtest) - A UNIX command-line tool for the testing bash/shell utilites.
+- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
+- [epoxy](https://github.com/spbnick/epoxy) - A flexible Bash test framework.
+- [roundup](https://github.com/bmizerany/roundup) - Eliminate bugs and weeds from shell scripts.
+- [shUnit2](https://github.com/kward/shunit2) - An xUnit based unit test framework for Bourne based shell scripts.
 
 ## Docker
 
