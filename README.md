@@ -1,8 +1,6 @@
 # Code Quality Tools
 
-A list of code quality tools for editors and CI environments.
-
-If there is anything missing, please submit a pull request.
+A list of code quality tools and test frameworks for editors and CI environments. If there is anything missing, please submit a pull request.
 
 ## Bash / Shell
 
@@ -59,6 +57,14 @@ If there is anything missing, please submit a pull request.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - Code violation checks and corrections.
 - [PHPMD](https://phpmd.org/) - Mess detector for potential code issues.
 
+#### Testing
+
+- [phpunit](https://phpunit.de/) - A programmer-oriented testing framework for PHP.
+
+#### Code Coverage
+
+- [php-codacy-coverage](https://github.com/codacy/php-codacy-coverage) - Codacy support for PHP.
+
 ## Python
 
 #### Static Analysis
@@ -67,6 +73,10 @@ If there is anything missing, please submit a pull request.
 - [pep8](https://pypi.python.org/pypi/pep8) - Python style guide checker.
 - [pycodestyle](https://pypi.python.org/pypi/pycodestyle) - Checks Python code against some style conventions.
 - [pyflakes](https://pypi.python.org/pypi/pyflakes) - Checks Python source files for errors.
+
+#### Code Coverage
+
+- [python-codacy-coverage](https://github.com/codacy/python-codacy-coverage) - Python support for Codacy.
 
 ## Ruby
 
@@ -96,5 +106,6 @@ If there is anything missing, please submit a pull request.
 #### Code Coverage
 
 - [coveralls-ruby](https://github.com/lemurheavy/coveralls-ruby) - Coveralls support for Ruby.
-- [rcov](https://github.com/relevance/rcov) - Code Coverage for Ruby.
+- [rcov](https://github.com/relevance/rcov) - Code coverage for Ruby.
+- [ruby-codacy-coverage](https://github.com/codacy/ruby-codacy-coverage) - Codacy support for Ruby.
 - [simplecov](https://github.com/colszowka/simplecov) - Code coverage for Ruby.
